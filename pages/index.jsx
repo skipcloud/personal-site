@@ -3,7 +3,7 @@ export default function Home({ site }) {
     <>
       <h1>computer man</h1>
       <div id="about">
-        I'm Skip, an Irish dude living in London.<br />
+        I&apos;m Skip, an Irish dude living in London.<br />
         Self taught software engineer.<br />
         Currently writing code for <a href="https://www.deliveroo.co.uk/">Deliveroo</a>.<br />
         Working in the production engineering space. <br />
